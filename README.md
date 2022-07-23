@@ -21,3 +21,4 @@ Assets
 
 - [ ] Persist the folder selection
 - [ ] Add the possibility to change some options of the export
+- [ ] Expand to other type of objects (not only meshes)
