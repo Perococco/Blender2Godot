@@ -20,4 +20,4 @@ Assets
 ## Todo
 
 - [ ] Persist the folder selection
-- [ ] Add the possibility to change some option of the export
+- [ ] Add the possibility to change some options of the export
