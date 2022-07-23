@@ -16,3 +16,8 @@ Assets
   ├── Icosphere
   │   └── Icospher.glb
 ```
+
+## Todo
+
+- [ ] Persist the folder selection
+- [ ] Add the possibility to change some option of the export
