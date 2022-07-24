@@ -14,7 +14,7 @@ Assets
   ├── Cube
   │   └── Cube.glb
   ├── Icosphere
-  │   └── Icospher.glb
+  │   └── Icosphere.glb
 ```
 
 ## Todo
